@@ -1,2 +1,1 @@
-
-<a href="https://tokens.ci/u/roveim"><img alt="Tokens Stats for @roveim" src="https://tokens.ci/api/embed/roveim/svg?theme=light&tokens=compact&cost=compact" /></a>
+<a href="https://tokens.ci/u/roveim"><img alt="Tokens Stats for @roveim" src="https://tokens.ci/api/embed/roveim/svg?theme=light&template=graph&color=green&today=1&tokens=compact&cost=compact" /></a>
